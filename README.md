@@ -1,10 +1,21 @@
-# Mobile App API
+<h1 align="center">
+    SSI Mobile e-Wallet API
+</h1>
 
-## Introduction
-\
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#start service">Start Service</a>
+</p>
+
+## About
+
+This repository contains the source code of the Self-Sovereign Identity Mobile e-Wallet API for ETDA SSI Application. 
+
 This service is using for interact with mobile application to do the process following ETDA SSI Application
+Step to start the service
 
-## Step to start the service
-- Copy file `.env.sample` to `.env`
-- run `docker-compose up -d`
-- you can access the service via `http://localhost:8084`
+## Start Service
+
+    Copy file .env.sample to .env
+    run docker-compose up -d
+    you can access the service via http://localhost:8084
