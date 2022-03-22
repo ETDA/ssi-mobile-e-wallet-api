@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#get%20started">Get Started</a>
+  <a href="#get-started">Get Started</a>
 </p>
 
 ## About
