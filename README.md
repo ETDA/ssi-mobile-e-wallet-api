@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#start service">Start Service</a>
+  <a href="#get%20started">Get Started</a>
 </p>
 
 ## About
@@ -14,7 +14,7 @@ This repository contains the source code of the Self-Sovereign Identity Mobile e
 This service is using for interact with mobile application to do the process following ETDA SSI Application
 Step to start the service
 
-## Start Service
+## Get Started
 
     Copy file .env.sample to .env
     run docker-compose up -d
